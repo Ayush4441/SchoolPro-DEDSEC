@@ -1,0 +1,36 @@
+Class documentation
+<---- javadoc command: ---->
+D:\Program file\BlueJ\jdk\bin\javadoc.exe
+-author
+-version
+-nodeprecated
+-package
+-Xdoclint:none
+-noindex
+-notree
+-nohelp
+-nonavbar
+-source
+11
+-classpath
+D:\Program file\BlueJ\lib\bluejcore.jar;D:\Program file\BlueJ\lib\junit-4.11.jar;D:\Program file\BlueJ\lib\hamcrest-core-1.3.jar;D:\Program file\BlueJ\lib\lang-stride.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.base.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.controls.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.fxml.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.graphics.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.media.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.properties.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.swing.jar;D:\Program file\BlueJ\lib\javafx\lib\javafx.web.jar;F:\program workspace\School project
+-d
+F:\program workspace\School project\doc
+-encoding
+UTF-8
+-charset
+UTF-8
+F:\program workspace\School project\DEDSEC.java
+<---- end of javadoc command ---->
+Loading source file F:\program workspace\School project\DEDSEC.java...
+Constructing Javadoc information...
+Standard Doclet version 11.0.2
+Building tree for all the packages and classes...
+Generating F:\program workspace\School project\doc\DEDSEC.html...
+Generating F:\program workspace\School project\doc\package-summary.html...
+Generating F:\program workspace\School project\doc\constant-values.html...
+Building index for all the packages and classes...
+Building index for all classes...
+Generating F:\program workspace\School project\doc\allclasses.html...
+Generating F:\program workspace\School project\doc\allclasses.html...
+Generating F:\program workspace\School project\doc\index.html...

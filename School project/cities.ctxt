@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=cities
+comment0.text=\r\n\ 11.\ Define\ a\ class\ and\ store\ the\ names\ of\ ten\ cities\ in\ a\ single\ dimensional\ array.\ Sort\ these\ names\ in\r\n\ alphabetical\ order\ using\ the\ bubble\ sort\ technique.\ Print\ the\ sorted\ array.\r\n
+comment1.params=
+comment1.target=void\ main()
+numComments=2
